@@ -295,5 +295,5 @@ Mais le site pouvait-il faire quelque chose pour arrêter cette attaque ?
 
 
 
-Et qu'on se le dise franchement : **Symfony**, utilisé avec le moteur de template Twig et l'ORM Doctrine, vous protège par défaut des attaques XSS, des injections SQL et des attaques CSRF ! :champagne:
+Et qu'on se le dise franchement : **Laravel**, ou **Symfony**, ou même **Phalcon**, vous protègent par défaut des attaques XSS, des injections SQL et des attaques CSRF ! :champagne:
 
